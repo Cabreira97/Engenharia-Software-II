@@ -1,7 +1,7 @@
 
 Este é um projeto [Next.js](https://nextjs.org/) iniciado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages /criar-próximo-aplicativo).
 
-## Getting Started
+## Começando
 
 
 Primeiro, execute o servidor de desenvolvimento:
@@ -12,6 +12,10 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+
+-- pacotes
+npm i prompt-sync 
+
 ```
 
 ## Português
