@@ -10,3 +10,16 @@ function parOuImpar(numero) {
 }
 
 parOuImpar()
+
+function porcentagem() {
+
+  const num = Number(prompt("Valor: "))
+  const porc = Number(prompt("Valor de desconto em %: "))
+
+  calculo = num * (porc / 100)
+
+  return console.log(`Valor Inicial do Produto: ${num} \nValor Final com Desconto: ${num - calculo}`)
+
+}
+
+porcentagem()
